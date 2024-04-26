@@ -2,14 +2,22 @@
 
 This is a **Hunger Games Simulation**! This project simulates a complex battle royale-style environment where participants compete for survival. The simulation, implemented in C#, models a wide array of factors including health, nutrition, hydration, combat abilities, and personal attributes to determine the ultimate survivor. This README provides an overview of all the variables and factors that impact the outcome of the simulation.
 
+![image](https://github.com/itsme12453/The-Hunger-Games-Simulation/assets/74871622/93f9b76b-1ef0-4d52-92dc-5d0346b4fe9c)
+![image](https://github.com/itsme12453/The-Hunger-Games-Simulation/assets/74871622/b111e07f-bcf2-4277-aae2-83ac4f210486)
+
+
+
+https://github.com/itsme12453/The-Hunger-Games-Simulation/assets/74871622/6d2ee772-dd19-4f93-aca2-1d106f9e7ddc
+
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Simulation Factors](#simulation-factors)
 - [Combat System](#combat-system)
-- [Nutrition and Hydration](#nutrition-and-hydration)
+- [Nutrition and Hydration](#nutrition-hydration-and-time)
 - [How to Run the Simulation](#how-to-run-the-simulation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The Hunger Games Simulation is a C# console program that simulates a battle royale scenario. Participants have unique characteristics and skills, and their survival depends on their health, combat skills, and ability to find food and water. The simulation evolves over time as participants fight, rest, and struggle to survive.
@@ -51,7 +59,7 @@ The combat system uses the following elements:
 - **Fatigue**: Stamina decreases with each action, affecting attack strength and defense.
 
 
-## Nutrition, Hydration, and Time
+## Nutrition Hydration and Time
 Participants can find food and water at random intervals:
 
 - **Food**: Helps increase nutrition and energy levels. Finding food has a random chance, with lower nutrition increasing the probability. Lack of food can lead to death by starvation.
