@@ -5,12 +5,6 @@ This is a **Hunger Games Simulation**! This project simulates a complex battle r
 ![image](https://github.com/itsme12453/The-Hunger-Games-Simulation/assets/74871622/93f9b76b-1ef0-4d52-92dc-5d0346b4fe9c)
 ![image](https://github.com/itsme12453/The-Hunger-Games-Simulation/assets/74871622/b111e07f-bcf2-4277-aae2-83ac4f210486)
 
-
-
-https://github.com/itsme12453/The-Hunger-Games-Simulation/assets/74871622/6d2ee772-dd19-4f93-aca2-1d106f9e7ddc
-
-
-
 ## Table of Contents
 - [Overview](#overview)
 - [Simulation Factors](#simulation-factors)
